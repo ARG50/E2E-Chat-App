@@ -3,7 +3,7 @@ The whole application is based on a ***client-server*** architecture.
 
 This repository is for the ***client*** version.
 
-For the ***server*** version, [click here](https://github.com/arg50/E2E_Chat_App/End-to-End_Encrypted_Chat_Server).
+For the ***server*** version, [click here](https://github.com/ARG50/E2E_Chat_App/tree/main/End-to-End_Encrypted_Chat_Server-main).
 
 ## Features
 - User account registration, login and session management, account recovery, account settings updating, etc.
