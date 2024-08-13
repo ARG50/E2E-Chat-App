@@ -1,4 +1,4 @@
-# E2E (End-to-End Encrypted Chat) 
+# E2E Chat App(End-to-End Encrypted Chat Application) 
 The whole application is based on a ***client-server*** architecture.
 - Client Version - For the ***client*** version, [click here](https://github.com/ARG50/E2E_Chat_App/tree/main/End-to-End_Encrypted_Chat_Client-main).
 - Server Version - For the ***server*** version, [click here](https://github.com/ARG50/E2E_Chat_App/tree/main/End-to-End_Encrypted_Chat_Server-main).
